@@ -1,0 +1,8 @@
+{
+  "name": "LipiType — English & Marathi InScript Typing Studio",
+  "description": "Master English QWERTY and Marathi InScript touch typing from Beginner to Pro with guided finger lessons, 1-5 minute speed tests, GCC-TBC & MPSC 30/40 WPM exam simulation, and weak-key analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
